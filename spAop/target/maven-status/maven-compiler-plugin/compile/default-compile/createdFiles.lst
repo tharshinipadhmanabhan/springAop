@@ -1,0 +1,5 @@
+com\kgisl\service\EmployeeService.class
+com\kgisl\controller\EmployeeController.class
+com\kgisl\aop\SpAopApplication.class
+com\kgisl\aspect\EmployeeServiceAspect.class
+com\kgisl\entity\Employee.class
